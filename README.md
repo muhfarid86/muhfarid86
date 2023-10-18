@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhfarid86
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning javascript, laravel, php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
